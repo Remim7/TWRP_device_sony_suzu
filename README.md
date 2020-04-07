@@ -25,7 +25,7 @@ mkdir -p device/sony
 
 cd device/sony
 
-git clone https://github.com/Remim7/TWRP_device_sony_suzu.git -b android_9.0 suzu
+git clone https://github.com/Remim7/TWRP_device_sony_suzu.git -b android-9.0 suzu
 
 ###-----Next,Build Recovery
 cd TWRP
